@@ -17,7 +17,7 @@ Learning how websites are built is an essential part of understanding how they c
 ## 🌐 How to View
 
 You can view the live version of the website here:  
-👉 [https://mahmoud-sami0.github.io/profile](https://mahmoud-sami0.github.io/profile)
+👉 [https://mahmoud-sami0.github.io/tutorial-project-sop2](https://mahmoud-sami0.github.io/tutorial-project-sop2)
 
 ## 🔧 Built With
 
